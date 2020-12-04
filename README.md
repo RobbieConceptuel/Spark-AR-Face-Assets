@@ -8,11 +8,11 @@ In the Mesh folder, you can find the Face Mesh + Head Occluders.
 In the Textures you can find optimised images for Alpha uses and the Face Reference Textures.
 
 <a href="https://github.com/RobbieConceptuel/Spark-AR-Face-Assets/blob/main/Textures/faceFeminine.jpg">
-<img src="https://github.com/RobbieConceptuel/Spark-AR-Face-Assets/blob/main/Textures/faceMasculine.jpg" width="300">
+<img src="https://github.com/RobbieConceptuel/Spark-AR-Face-Assets/blob/main/Textures/faceFeminine.jpg" width="300">
 </a>
 
-<a href="https://github.com/RobbieConceptuel/Spark-AR-Face-Assets/tree/main/Textures/faceMasculine.jpg">
-<img src="https://github.com/RobbieConceptuel/Spark-AR-Face-Assets/tree/main/Textures/faceMasculine.jpg" width="300">
+<a href="https://github.com/RobbieConceptuel/Spark-AR-Face-Assets/blob/main/Textures/faceMasculine.jpg">
+<img src="https://github.com/RobbieConceptuel/Spark-AR-Face-Assets/blob/main/Textures/faceMasculine.jpg" width="300">
 </a>
 
 ### [Using the Spark AR Studio Face Reference Assets](https://sparkar.facebook.com/ar-studio/learn/articles/people-tracking/face-reference-assets)
