@@ -25,4 +25,6 @@ Link to additional resources to learn : https://sparkar.facebook.com/ar-studio/l
 
 [**Join the Spark AR Community**](https://www.facebook.com/groups/SparkARcommunity)
 
+[**Join the Spark AR Francophone**](https://www.facebook.com/groups/sparkarfr)
+
 *Made with :sparkling_heart: by Robbie Conceptuel - 2020*
